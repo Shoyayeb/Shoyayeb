@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://shafin.netlify.app/](https://shafin.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shafin-portfolio.web.app/](https://shafin-portfolio.web.app/)
 
 - 📫 How to reach me **sa.fine@outlook.com**
 
