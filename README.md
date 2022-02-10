@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm shafin</h1>
+<h1 align="center">Hi 👋, I'm Soyayeb Hasan Shafin</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://shafin-portfolio.web.app/](https://shafin-portfolio.web.app/)
+- 👨‍💻 All of my Details are available at [https://shafin-portfolio.web.app/](https://shafin-portfolio.web.app/)
 
 - 📫 How to reach me **sa.fine@outlook.com**
 
