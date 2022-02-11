@@ -45,7 +45,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoyayeb&theme=chartreuse-dark&locale=en" alt="shoyayeb" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoyayeb&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="shoyayeb" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=soyayeb&theme=chartreuse-dark&locale=en" alt="shoyayeb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=soyayeb&theme=chartreuse-dark&locale=en&v=2" alt="shoyayeb" /></p>
 
 
 
